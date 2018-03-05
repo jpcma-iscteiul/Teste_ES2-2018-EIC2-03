@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ﻿Parte 1
-=======
-﻿
 Part2
->>>>>>> a7bbee57db38ca152ef6f907b92647c902d36c73
-=======
-
-
 Parte 3!
->>>>>>> 019bf6a85b36d1f2f233f69cbb7a85b858e23570
